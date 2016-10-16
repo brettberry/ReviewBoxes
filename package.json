@@ -1,7 +1,7 @@
 {
-  "name": "minimalist-baker-admin-dashboard",
+  "name": "boilerplate",
   "version": "0.0.1",
-  "description": "Admin dashboard for the Minimalist Baker app.",
+  "description": "Boilerplate.",
   "scripts": {
     "build": "./node_modules/.bin/webpack",
     "start": "node dev-server.js",
