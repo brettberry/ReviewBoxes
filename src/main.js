@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Timer from './Timer';
+import Home from './Home.js';
 
-ReactDOM.render(<Timer/>, document.getElementById('react-main'));
+ReactDOM.render(<Home/>, document.getElementById('react-main'));
