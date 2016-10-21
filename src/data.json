@@ -1,0 +1,31 @@
+{
+  "reviews": [
+    {
+      "name": "Carolina",
+      "profilePic": "https://img0.etsystatic.com/000/0/10142017/iusa_75x75.7751342.jpg",
+      "date": "October 14",
+      "comment": "Beautiful! and the packaging .... :) Thanks!",
+      "photo": "https://img1.etsystatic.com/027/0/6065800/il_875xN.545054965_hdk2.jpg",
+      "description": "The Hida Express by Hannah Waldron",
+      "link": "https://www.etsy.com/listing/168246543/the-hida-express-furoshiki-japanese-eco?ref=hp_sr"
+    },
+    {
+      "name": "lifeisjoy",
+      "profilePic": "https://img1.etsystatic.com/042/0/16160809/iusa_75x75.27774075_g913.jpg",
+      "date": "October 15",
+      "comment": "Well packed and everything perfect! Thank you!",
+      "photo": "https://img0.etsystatic.com/102/0/6657763/il_875xN.846974774_tdpa.jpg",
+      "description": "Unique Metal Bookends Brackets (Curly braces), black color.",
+      "link": "https://www.etsy.com/listing/168246543/the-hida-express-furoshiki-japanese-eco?ref=hp_sr"
+    },
+    {
+      "name": "Sarah",
+      "profilePic": "https://img1.etsystatic.com/132/0/22779689/iusa_75x75.44427983_d8l9.jpg",
+      "date": "October 15",
+      "comment": "Wow I loved this and so did my sister, it was a gift for her 21st and so sweet :)",
+      "photo": "https://img1.etsystatic.com/133/0/8703700/il_875xN.1019772865_fpy7.jpg",
+      "description": "Ceramic Little Kiwi in white clay and decorated with small black stripes and a long orange beak.",
+      "link": "https://www.etsy.com/listing/168246543/the-hida-express-furoshiki-japanese-eco?ref=hp_sr"
+    }
+  ]
+}
